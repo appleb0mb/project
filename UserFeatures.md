@@ -16,4 +16,5 @@
 | User can view their notes | 4 |
 | User can add new notes | 4 |
 | User can edit their notes | 4 |
+| User can make their notes public or private | 4 |
 | User can message others in their family/corp. | 5 |
