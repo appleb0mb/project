@@ -5,7 +5,10 @@
 | User can choose personal, family, corp. setup  | 2 |
 | User can change personal, family, corp. setup | 4 |
 | User is walked through by a tutorial | 6 |
-| User can select their major preferences | 2 |
+| User can select their major preferences | 1 |
+| User can select their major personal preferences | 1 |
+| User can select their major family preferences | 2 |
+| User can select their major corporation preferences | 2 |
 | User can manage their devices that can receive notifications | 2 |
 | User can view their calendar | 2 |
 | User can add events to their calendar | 2 |
