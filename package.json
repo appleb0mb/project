@@ -1,0 +1,30 @@
+{
+  "name": "organizer",
+  "version": "1.0.0",
+  "description": "personal project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start-watch": "nodemon index.js",
+    "dev": "concurrently \"yarn run start-watch\" \"cd client && yarn start\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/appleb0mb/project.git"
+  },
+  "author": "sean applebaum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/appleb0mb/project/issues"
+  },
+  "homepage": "https://github.com/appleb0mb/project#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.9"
+  },
+  "devDependencies": {
+  "concurrently": "^4.0.1",
+  "nodemon": "^1.18.4"
+  }
+}
